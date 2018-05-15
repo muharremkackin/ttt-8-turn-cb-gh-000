@@ -41,3 +41,13 @@ def position_taken?(board, index)
     false
   end
 end
+
+def move(board, index, value)
+  board[index] = value
+end
+
+
+
+
+
+
