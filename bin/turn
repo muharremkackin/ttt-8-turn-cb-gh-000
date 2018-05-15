@@ -2,4 +2,4 @@
 require_relative "../lib/turn.rb"
 board = [" ", " ", " ", "X", " ", " ", " ", " ", " "]
 
-puts valid_move
+puts valid_move?(board, 1)
