@@ -1,4 +1,4 @@
 #!/usr/bin/env ruby
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", "X", " ", " ", " ", " ", " "]
 
 puts board.count
